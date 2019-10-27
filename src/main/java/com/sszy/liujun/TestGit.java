@@ -5,6 +5,7 @@ public class TestGit {
 	public static void main(String[] args) {
 		System.out.println("1 to insert!");
 		System.out.println("2 to insert!");
+		System.out.println("test testBranch!");
 		System.out.println("1 to insert!");
 	}
 
